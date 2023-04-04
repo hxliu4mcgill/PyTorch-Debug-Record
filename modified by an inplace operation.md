@@ -1,4 +1,4 @@
-# one of the variables needed for gradient computation has been modified by an inplace operation.  
+# "one of the variables needed for gradient computation has been modified by an inplace operation".  
 
 This is a bug that cost my whole afternoon to solve.  
 
